@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"poloniex.zrx_trade_history"},{"v":2,"unique":true,"key":{"globalTradeID":1.0},"name":"globalTradeID_1","ns":"poloniex.zrx_trade_history"}]}

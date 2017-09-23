@@ -1,0 +1,2 @@
+python poloniex_prediction.py BTC_BCN
+pause
